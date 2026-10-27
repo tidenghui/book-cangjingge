@@ -1,0 +1,93 @@
+[
+  {
+    "who": "liuqingwu",
+    "aliases": [
+      "柳青梧"
+    ],
+    "cannotSay": [
+      "门籍给非查案非尚书房的人看"
+    ],
+    "why": "门籍只给查案的和尚书房的看，沈砚两种都不是。",
+    "sinceChapter": 11
+  },
+  {
+    "who": "老周",
+    "aliases": [
+      "老周"
+    ],
+    "cannotSay": [
+      "十七年前那一夜的事"
+    ],
+    "why": "喉咙里像纸撕到一半停住，发不出声，用粥水写字也写不成",
+    "sinceChapter": 19
+  },
+  {
+    "who": "老周",
+    "aliases": [
+      "老周"
+    ],
+    "cannotSay": [
+      "谁"
+    ],
+    "why": "舌上有禁制，说出该字会嘴角渗血、身体伏地。",
+    "sinceChapter": 20
+  },
+  {
+    "who": "老周",
+    "aliases": [
+      "老周"
+    ],
+    "cannotSay": [
+      "左目是谁",
+      "这个钩什么时候写的",
+      "三年前进宗名册谁签的"
+    ],
+    "why": "沈砚每问一句，老周就从头重念一遍渠册，不回答。",
+    "sinceChapter": 8
+  },
+  {
+    "who": "liuqingwu",
+    "aliases": [
+      "柳青梧"
+    ],
+    "cannotSay": [
+      "后山潭子底下那东西——放一个人进去，它抄出一门功"
+    ],
+    "why": "触发封口令，铜牌发烫、嘴角出血、后半句失声",
+    "sinceChapter": 13
+  },
+  {
+    "who": "liuqingwu",
+    "aliases": [
+      "柳青梧"
+    ],
+    "cannotSay": [
+      "腕上守阁后面的字"
+    ],
+    "why": "说了就吐血",
+    "sinceChapter": 14
+  },
+  {
+    "who": "aman",
+    "aliases": [
+      "阿满"
+    ],
+    "cannotSay": [
+      "被换的细节"
+    ],
+    "why": "说一句掉一个字，问了就掉",
+    "sinceChapter": 24
+  },
+  {
+    "who": "laozhou",
+    "aliases": [
+      "老周",
+      "周伯"
+    ],
+    "cannotSay": [
+      "沈父那半句后面三个字是什么"
+    ],
+    "why": "他说“我不说，我说不出来”，只能画不能说出",
+    "sinceChapter": 30
+  }
+]

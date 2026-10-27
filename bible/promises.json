@@ -1,0 +1,562 @@
+[
+  {
+    "id": "p1",
+    "text": "「不许翻到最后一页」这条规矩到底在防什么",
+    "plantedAt": 1,
+    "dueBy": 28,
+    "paidAt": 28,
+    "importance": 3
+  },
+  {
+    "id": "p2",
+    "text": "父亲那半句批注被血糊住的后半截是什么",
+    "plantedAt": 1,
+    "dueBy": 16,
+    "paidAt": 17,
+    "importance": 3
+  },
+  {
+    "id": "p3",
+    "text": "老周的左眼是怎么瞎的",
+    "plantedAt": 2,
+    "dueBy": 8,
+    "paidAt": 8,
+    "importance": 2
+  },
+  {
+    "id": "p4",
+    "text": "《引气篇》最后一页第七行为什么是空的",
+    "plantedAt": 1,
+    "dueBy": 3,
+    "paidAt": 3,
+    "importance": 3
+  },
+  {
+    "id": "p5",
+    "text": "五个「病故」的人真正的死法",
+    "plantedAt": 4,
+    "dueBy": 14,
+    "paidAt": 14,
+    "importance": 2
+  },
+  {
+    "id": "p6",
+    "text": "阿满说有人在书上写字，写的是谁的名字",
+    "plantedAt": 5,
+    "dueBy": 12,
+    "paidAt": 5,
+    "importance": 2
+  },
+  {
+    "id": "p7",
+    "text": "枕头下那张空白纸的压痕是谁写的",
+    "plantedAt": 6,
+    "dueBy": 10,
+    "paidAt": 10,
+    "importance": 2
+  },
+  {
+    "id": "p8",
+    "text": "墨池边多出来的那一个脚印是谁的",
+    "plantedAt": 7,
+    "dueBy": 22,
+    "paidAt": 21,
+    "importance": 3
+  },
+  {
+    "id": "p9",
+    "text": "七月十六那一夜，我做了什么",
+    "plantedAt": 4,
+    "dueBy": 18,
+    "paidAt": 18,
+    "importance": 3
+  },
+  {
+    "id": "p10",
+    "text": "阿满失踪后枕头上那行血字写了什么",
+    "plantedAt": 12,
+    "dueBy": 24,
+    "paidAt": 12,
+    "importance": 2
+  },
+  {
+    "id": "g1-1",
+    "text": "沈砚父亲血字批注糊住的半句“别让”后面是什么，那层托纸上的“走”字指向什么",
+    "plantedAt": 1,
+    "dueBy": 12,
+    "paidAt": 5,
+    "importance": 3
+  },
+  {
+    "id": "g1-2",
+    "text": "门外脚步三下一样重的人是谁，为何不是老周",
+    "plantedAt": 1,
+    "dueBy": 8,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g2-1",
+    "text": "老周指县志第三排第四格（缺第六册）、账册柜、律例匣三处，并说“那行字早晚得有人写”，这三处与“那行字”的关系待解。",
+    "plantedAt": 2,
+    "dueBy": 12,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g2-2",
+    "text": "沈砚从废纸匣内壁抠出的半粒米大纸屑上那半个带钩的字是什么字，他含在舌下要做什么。",
+    "plantedAt": 2,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g3-1",
+    "text": "《引气篇》第七行那一笔被笔尖一碰就前移半寸，它最终会变成什么、要引向何处。",
+    "plantedAt": 3,
+    "dueBy": 16,
+    "paidAt": 30,
+    "importance": 3
+  },
+  {
+    "id": "g3-2",
+    "text": "《引气篇》第七行所在页被后粘换过，是谁换的页、原页上写的是什么。",
+    "plantedAt": 3,
+    "dueBy": 12,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g4-1",
+    "text": "账册末页“七月十六”后留空的名字格，要写的是谁的名字。",
+    "plantedAt": 4,
+    "dueBy": 12,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g4-2",
+    "text": "柜顶纸角擦出的两个带下钩的字是什么字，与“迁化”及后山处置有何关联。",
+    "plantedAt": 4,
+    "dueBy": 10,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g5-1",
+    "text": "灰衣人是谁，他拿走另外两本旧抄本做什么，为何叮嘱阿满别翻末页。",
+    "plantedAt": 5,
+    "dueBy": 12,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g5-2",
+    "text": "拿阿满的手写“沈砚”二字的人是谁，他让阿满“记住了就忘不掉”的是什么。",
+    "plantedAt": 5,
+    "dueBy": 14,
+    "paidAt": 14,
+    "importance": 3
+  },
+  {
+    "id": "g6-1",
+    "text": "压痕纸第三个字右半边压得太浅看不清，完整三字与“斋言”木牌的关联待解。",
+    "plantedAt": 6,
+    "dueBy": 12,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g6-2",
+    "text": "老周让沈砚擦三层东边那扇二十年没擦干净的窗，用意待解。",
+    "plantedAt": 6,
+    "dueBy": 10,
+    "paidAt": 7,
+    "importance": 2
+  },
+  {
+    "id": "g7-1",
+    "text": "第七块架签被撬走后留下的方形净痕和钉孔，撬走的是什么、谁撬的。",
+    "plantedAt": 7,
+    "dueBy": 22,
+    "paidAt": 22,
+    "importance": 2
+  },
+  {
+    "id": "g7-2",
+    "text": "墨池边第六个脚印比沈砚现在短两指、正是他补鞋前的脚长，且他刚站过处无脚印——这脚印是谁的、为何与他的旧脚长吻合。",
+    "plantedAt": 7,
+    "dueBy": 22,
+    "paidAt": 21,
+    "importance": 3
+  },
+  {
+    "id": "g8-1",
+    "text": "渠册中间一页右下角被撕去一块，茬口新齐，缺处底下压着半个带钩的字，是谁撕的、撕去的内容是什么。",
+    "plantedAt": 8,
+    "dueBy": 14,
+    "paidAt": 14,
+    "importance": 3
+  },
+  {
+    "id": "g8-2",
+    "text": "老周左眼窝里那行竖写的字是谁写上去的、写的是什么内容。",
+    "plantedAt": 8,
+    "dueBy": 16,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g9-1",
+    "text": "三层东窗地板下那个人形拓印是谁的、为何与沈砚身量差半寸、为何擦不掉且色同坡底黑水。",
+    "plantedAt": 9,
+    "dueBy": 24,
+    "paidAt": 25,
+    "importance": 3
+  },
+  {
+    "id": "g9-2",
+    "text": "沈砚运功浮出的半句「……别翻第三」指什么、第三后面是什么、为何只有半句。",
+    "plantedAt": 9,
+    "dueBy": 20,
+    "paidAt": 20,
+    "importance": 3
+  },
+  {
+    "id": "g10-1",
+    "text": "自举签是谁在七月十六夜亲手放入签筒的，为何用沈砚笔迹的油烟墨写“沈斋言”并断笔于“言”字最后一横。",
+    "plantedAt": 10,
+    "dueBy": 16,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g10-2",
+    "text": "沈砚小册末页多出的竖纹纸页与第五本空册封底同源字迹是谁写上去的，竖纹纸从何而来，为何笔迹是沈砚的却非他所写。",
+    "plantedAt": 10,
+    "dueBy": 16,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g11-1",
+    "text": "库房废料匣中第三支秃笔笔头的断口，是否与十二页纸及自举签上的断口同为一支笔。",
+    "plantedAt": 11,
+    "dueBy": 17,
+    "paidAt": 21,
+    "importance": 2
+  },
+  {
+    "id": "g11-2",
+    "text": "沈砚手中方头“行”签为何刻“言”字，真“言”签在何处，谁换了签。",
+    "plantedAt": 11,
+    "dueBy": 16,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g12-1",
+    "text": "阿满枕头下那张纸的压痕正样是什么字，谁借阿满的手写的。",
+    "plantedAt": 12,
+    "dueBy": 18,
+    "paidAt": 18,
+    "importance": 3
+  },
+  {
+    "id": "g12-2",
+    "text": "老周让沈砚去看阁里第三排最上格“还剩几页”，那里到底有什么。",
+    "plantedAt": 12,
+    "dueBy": 16,
+    "paidAt": 13,
+    "importance": 2
+  },
+  {
+    "id": "g13-1",
+    "text": "老周问「第七个是谁」，第七个名字是谁、与柳青梧父亲是否为第六个或第七个。",
+    "plantedAt": 13,
+    "dueBy": 20,
+    "paidAt": 20,
+    "importance": 3
+  },
+  {
+    "id": "g13-2",
+    "text": "卷宗封皮内侧朱笔问老周「当年你为何只抬不记」，老周会如何回应或回避。",
+    "plantedAt": 13,
+    "dueBy": 18,
+    "paidAt": 18,
+    "importance": 2
+  },
+  {
+    "id": "g14-1",
+    "text": "柳青梧腕内侧有一行淡墨字，头两个字是“守阁”，后面被袖子盖住；她说“说了就吐血”。这行字全文是什么、为何不能说。",
+    "plantedAt": 14,
+    "dueBy": 25,
+    "paidAt": 25,
+    "importance": 2
+  },
+  {
+    "id": "g14-2",
+    "text": "二层楼板底下横梁刻着一个“周”字，字下一竖，竖底一横只刻半截、后半截被凿掉，像刻到一半的日期。这日期是什么、为何被凿。",
+    "plantedAt": 14,
+    "dueBy": 24,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g15-1",
+    "text": "老周按在沈砚手背的缺两指糨糊白印，要拿出去和什么比对、比对结果是什么。",
+    "plantedAt": 15,
+    "dueBy": 20,
+    "paidAt": 20,
+    "importance": 3
+  },
+  {
+    "id": "g15-2",
+    "text": "第七块架签位置嵌着的半片纸（沈砚笔迹的一撇）来自哪张纸、上面原本写的名字是谁。",
+    "plantedAt": 15,
+    "dueBy": 22,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g16-1",
+    "text": "老周留下半截青蜡线、点左眼窝和沈砚胸口，究竟要传达什么。",
+    "plantedAt": 16,
+    "dueBy": 24,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g16-2",
+    "text": "旧抄本末页「可我已经写了」正在变干，是谁以沈砚笔迹所写、为何与老周刻字同出一手。",
+    "plantedAt": 16,
+    "dueBy": 24,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g17-1",
+    "text": "父亲册子中“换一人出，要一人写”的“写”指写谁的名、写在哪一页，刻字未明。",
+    "plantedAt": 17,
+    "dueBy": 24,
+    "paidAt": 30,
+    "importance": 2
+  },
+  {
+    "id": "g17-2",
+    "text": "册子空白页浮现的“沈”字笔迹混合阿满与沈砚特征且刮不掉，是谁写的、为何刮不掉。",
+    "plantedAt": 17,
+    "dueBy": 25,
+    "paidAt": 25,
+    "importance": 2
+  },
+  {
+    "id": "g18-1",
+    "text": "老周说子时静室“有你”，静室里到底有什么、沈砚进去会遇到什么。",
+    "plantedAt": 18,
+    "dueBy": 22,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g18-2",
+    "text": "第十二页“己”字下压着半个“印”字，与沈砚掌心黑印差一线，写这字的人掌心也有同样印子——此人是谁、掌心印从何而来。",
+    "plantedAt": 18,
+    "dueBy": 34,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g19-1",
+    "text": "门缝塞进来的纸上七个字是沈砚笔迹但他没写过，这七个字是什么、是谁写的。",
+    "plantedAt": 19,
+    "dueBy": 31,
+    "paidAt": 30,
+    "importance": 3
+  },
+  {
+    "id": "g19-2",
+    "text": "新袍袖口夹层里的半个字纸角与墨锭掐印相对，这半个字是什么、与“鹤”字有无关联。",
+    "plantedAt": 19,
+    "dueBy": 24,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g20-1",
+    "text": "老周在泥中写的偏旁最后一横歪向右边，不是“遣”字，这个字究竟是什么、指向什么。",
+    "plantedAt": 20,
+    "dueBy": 28,
+    "paidAt": 29,
+    "importance": 2
+  },
+  {
+    "id": "g20-2",
+    "text": "水底第六个人形划出“扌”后停住，第三笔未落，它要写的字是什么、为何停住。",
+    "plantedAt": 20,
+    "dueBy": 28,
+    "paidAt": 28,
+    "importance": 2
+  },
+  {
+    "id": "g22-1",
+    "text": "短指右手是什么、为何递笔给沈砚，它追白纸补字的规则会引向何处。",
+    "plantedAt": 22,
+    "dueBy": 28,
+    "paidAt": 23,
+    "importance": 3
+  },
+  {
+    "id": "g22-2",
+    "text": "书脊下纸片“别让”后面糊住的半行是什么，两张纸撕口对得上意味着什么。",
+    "plantedAt": 22,
+    "dueBy": 29,
+    "paidAt": 28,
+    "importance": 2
+  },
+  {
+    "id": "g23-1",
+    "text": "薄板上十四个字中，除末三字“回三层”和头一字“周”外，其余十字是什么。",
+    "plantedAt": 23,
+    "dueBy": 28,
+    "paidAt": 29,
+    "importance": 2
+  },
+  {
+    "id": "g23-2",
+    "text": "父亲划“换”字时抹掉半个“子”，那半个“子”原本要组成什么字、指向什么。",
+    "plantedAt": 23,
+    "dueBy": 29,
+    "paidAt": 28,
+    "importance": 2
+  },
+  {
+    "id": "g24-1",
+    "text": "白纸上那行浅痕是沈砚笔迹却收笔如老周，底下还有沈砚名字的旧写法，这行字是谁写的、为何有老周笔法，待解。",
+    "plantedAt": 24,
+    "dueBy": 30,
+    "paidAt": 26,
+    "importance": 2
+  },
+  {
+    "id": "g24-2",
+    "text": "假阿满说“你抄完了，就轮到你写”，要沈砚在白纸上写一笔才能取到上头那页纸，写什么、写后如何，待解。",
+    "plantedAt": 24,
+    "dueBy": 28,
+    "paidAt": 26,
+    "importance": 2
+  },
+  {
+    "id": "g25-1",
+    "text": "沈砚在第十二页纸下发现多出一行写到一半、断处墨湿的字，提笔想补时笔尖自己顿笔走墨，这行字是谁写的、写的是什么。",
+    "plantedAt": 25,
+    "dueBy": 31,
+    "paidAt": 30,
+    "importance": 2
+  },
+  {
+    "id": "g25-2",
+    "text": "沈砚从纸墙缝回来后右手手指能动了，掌心黑印挪到左手，这变化意味着什么、与“换一人出，要一人写”有何关联。",
+    "plantedAt": 25,
+    "dueBy": 30,
+    "paidAt": 30,
+    "importance": 2
+  },
+  {
+    "id": "g26-1",
+    "text": "白纸上被撕走的那一层原本写过什么字，是谁粘上又撕走的。",
+    "plantedAt": 26,
+    "dueBy": 32,
+    "paidAt": null,
+    "importance": 2
+  },
+  {
+    "id": "g26-2",
+    "text": "右手接笔后写下的名字是什么，写完后沈砚能否出去、名册上的空名是否被填上。",
+    "plantedAt": 26,
+    "dueBy": 30,
+    "paidAt": 30,
+    "importance": 3
+  },
+  {
+    "id": "g27-1",
+    "text": "玄清说“下次写全”，暗示这次只写了“沈”字，还有字要写全。",
+    "plantedAt": 27,
+    "dueBy": 32,
+    "paidAt": 30,
+    "importance": 2
+  },
+  {
+    "id": "g27-2",
+    "text": "笔尖小字“三层原处，你自己来取”——三层原处具体在脚下何处、如何取、取什么。",
+    "plantedAt": 27,
+    "dueBy": 32,
+    "paidAt": 30,
+    "importance": 2
+  },
+  {
+    "id": "g28-1",
+    "text": "玄清蹲在“鹤”字窟窿前低声说话，说到窟窿缺最后一笔的位置时声音断了一下，他在跟谁交代什么旧账。",
+    "plantedAt": 28,
+    "dueBy": 34,
+    "paidAt": 30,
+    "importance": 2
+  },
+  {
+    "id": "g28-2",
+    "text": "沈砚右手落笔写到第七下时心里空了一格，像翻过一页有字的白纸，那页上原本写的是什么。",
+    "plantedAt": 28,
+    "dueBy": 32,
+    "paidAt": 30,
+    "importance": 2
+  },
+  {
+    "id": "g29-1",
+    "text": "老周在泥地上画的第二个字是什么字，为何沈砚抄书三年却不认得。",
+    "plantedAt": 29,
+    "dueBy": 33,
+    "paidAt": 30,
+    "importance": 2
+  },
+  {
+    "id": "g29-2",
+    "text": "碑面第七格自行渗出的墨点与水下父亲抬起又停住的手之间有何关联，那只手为何停在半空。",
+    "plantedAt": 29,
+    "dueBy": 35,
+    "paidAt": 30,
+    "importance": 2
+  },
+  {
+    "id": "g21-1",
+    "text": "第七个脚印早已压好且长度与沈砚现在一致，是谁压的、为何在他走到之前就存在。",
+    "plantedAt": 21,
+    "dueBy": 28,
+    "paidAt": 30,
+    "importance": 3
+  },
+  {
+    "id": "g21-2",
+    "text": "秃笔自动写出父亲笔迹的“沈”字并多出第四点，这第四点是什么意思、笔为何认沈砚的手。",
+    "plantedAt": 21,
+    "dueBy": 27,
+    "paidAt": 30,
+    "importance": 3
+  },
+  {
+    "id": "g30-1",
+    "text": "老周刻字收笔往上挑，与第七行多出的挑钩同法，刻字的人把自己也算进了第七行——老周与沈砚名字同列第七行的关系待解。",
+    "plantedAt": 30,
+    "dueBy": 36,
+    "paidAt": null,
+    "importance": 3
+  },
+  {
+    "id": "g30-2",
+    "text": "阿满站在低半分的砖上、两脚并齐、嘴唇是纸的、脸上摁下凹坑不回弹——这个阿满是否真阿满，真阿满何在。",
+    "plantedAt": 30,
+    "dueBy": 36,
+    "paidAt": null,
+    "importance": 3
+  }
+]
